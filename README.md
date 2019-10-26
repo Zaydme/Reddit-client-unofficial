@@ -2,7 +2,7 @@
 ##### unofficial Reddit app with Discord Rich Presence
 ---
 [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://github.com/Zaydme/Reddit-client-unofficial/blob/master/LICENSE) ![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/Zaydme/Reddit-client-unofficial?style=flat-square) ![David](https://img.shields.io/david/Zaydme/Reddit-client-unofficial?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Zaydme/Reddit-client-unofficial?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/Zaydme/Reddit-client-unofficial?style=flat-square) [![MIT](https://img.shields.io/badge/made%20by-Noob-blue.svg?style=flat-square)](#ye)
-[![MIT](https://img.shields.io/badge/For%20my-Fellow%20Redditos-orange.svg?style=for-the-badge)](http://bit.ly/FellowRedditor)
+[![MIT](https://img.shields.io/badge/For%20my-Fellow%20Redditors-orange.svg?style=for-the-badge)](http://bit.ly/FellowRedditor)
 ---
 #### download
 ##### for linux:

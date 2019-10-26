@@ -1,0 +1,49 @@
+{
+  "name": "Reddit-Client-unofficial",
+  "version": "0.0.1",
+  "description": "an unofficial reddit app with discord rich presence",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder --wl",
+    "dist-win": "electron-builder --win",
+    "dist-linux": "electron-builder --linux"
+  },
+  "author": { 
+    "name" : "Zaydme", 
+    "email" : "its911aka911@gmail.com"
+   },
+  "license": "MIT",
+  "homepage": "https://github.com/Zaydme/Reddit-client-unofficial",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaydme/Reddit-client-unofficial.git"
+  },
+  "build": {
+     "electronVersion": "7.0.0",
+     "appId": "Reddit-Client-unofficial",
+     "linux": {
+       "target": [
+         "AppImage",
+         "deb"
+       ]
+     },
+     "win": {
+        "target": ["portable"]
+     },
+     "portable": {
+        "artifactName": "Reddit-unofficial.exe"
+     }
+   },
+  "dependencies": {
+    "discord-rich-presence": "^0.0.8"
+  },
+  "devDependencies": {
+    "electron": "^7.0.0",
+    "electron-builder": "^21.1.0"
+  }
+}
+
+
+
